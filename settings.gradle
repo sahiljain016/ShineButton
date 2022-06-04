@@ -1,0 +1,3 @@
+rootProject.name = "Shine Button"
+include ':app'
+include ':shinebutton'
